@@ -14,5 +14,22 @@
     "lodash": "^4.16.2",
     "vue": "^2.0.1",
     "vue-resource": "^1.0.3"
-  }
+  },
+  "name": "blog",
+  "description": "Overview ========",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wladislavk/custom-blog-engine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wladislavk/custom-blog-engine/issues"
+  },
+  "homepage": "https://github.com/wladislavk/custom-blog-engine#readme"
 }
