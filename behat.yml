@@ -1,6 +1,0 @@
-default:
-    suites:
-        default: ~
-#            paths:    [ %paths.base%/src/WordpressIntegrationBundle/Tests/Behat/Features ]
-#            contexts:
-#                - WordpressIntegrationBundle\Tests\Behat\Contexts\AllPagesContext
